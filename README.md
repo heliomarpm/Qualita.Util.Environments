@@ -1,4 +1,4 @@
-﻿# itau-od5-dep-od5.environments
+# Qualita.Util.Environments
 
 Biblioteca para auxiliar nas configurações segregadas por ambiente, podendo utilizar arquivo .config adicional.
 
